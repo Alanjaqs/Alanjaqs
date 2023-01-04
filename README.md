@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola mundo!
+
+Me llamo Alan Jaques <br>
+Actualmente estudiando desarrollo de software y realizando proyectos para practicar <br>
 
 <!--
 **Alanjaqs/Alanjaqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
