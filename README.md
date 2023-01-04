@@ -4,7 +4,8 @@
   <p>Art by Pixel Jeff</p>
 </div> <br>
 
-Actualmente estudiando desarrollo de software y realizando proyectos para practicar <br>
+Actualmente estudiando desarrollo de software y realizando proyectos para practicar <br> <br>
+Tecnologías: C#, .Net Framework, HTML, CSS, Javascript, SQL, SQL Server
 
 <!--
 **Alanjaqs/Alanjaqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
