@@ -1,4 +1,4 @@
-### ¡Hola mundo! Me llamo Alan Jaques
+### ¡Hello World! Me llamo Alan Jaques
 <div>
   <img width=600px src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif"> <br>
   <p>Art by Pixel Jeff</p>
