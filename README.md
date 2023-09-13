@@ -5,8 +5,9 @@
 </div> <br>
 
 Actualmente estudiando desarrollo de software y realizando proyectos para practicar <br> <br>
+I am a software development student working on projects to progress and grow every day <br> <br>
 Fullstack Developer .Net Trainee <br> <br>
-Tecnologías: C#, .Net Framework, ASP.Net WebForms, HTML, CSS, Javascript, SQL, SQL Server, Git
+Technologies: C#, .Net Framework, ASP.Net WebForms, HTML, CSS, Javascript, SQL, SQL Server, Git
 
 <!--
 **Alanjaqs/Alanjaqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
