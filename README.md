@@ -1,10 +1,9 @@
-### ¡Hello visitor! Me llamo Alan Jaques
+### ¡Hello visitor! My name is Alan Jaques
 <div>
   <img width=500px src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif"> <br>
   <p>Art by Pixel Jeff</p>
 </div> <br>
 
-Actualmente estudiando desarrollo de software y realizando proyectos para practicar <br> <br>
 I am a software development student working on projects to progress and grow every day <br> <br>
 Fullstack Developer .Net Trainee <br> <br>
 Technologies: C#, .Net Framework, ASP.Net WebForms, HTML, CSS, Javascript, SQL, SQL Server, Git
